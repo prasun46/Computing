@@ -1,0 +1,17 @@
+#Sun Dec 07 21:05:40 NPT 2025
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/prasun46/Computing.git
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=prasun46
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=np01cp4a250025@islingtoncollege.edu.np
+bluej.teamsettings.yourName=prasun46
